@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672310203 source:c:\users\edi\desktop\lab3\coltulnegru\main.cpp
+	<iostream>
+	<winbgim.h>
+	<string.h>
+
